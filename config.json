@@ -13,7 +13,7 @@
   "EMAIL": "Facebook number/ID",
   "PASSWORD": "Facebook password",
   "OTPKEY": "Facebook 2FA Secret Key",
-  "BOTNAME": "𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
+  "BOTNAME": "𓆪ᑌ𝐋𝐓𝐈𝐌𝐀𝐓𝐄 𝐎𝐕𝐄𝐑𝐋𝐎𝐑𝐃 𝐒𝐘𝐒𝐓𝐄𝐌 𝐁𝐎✞ ツ",
   "PREFIX": "/",
   "usePrefix": false,
   "reactUnsend": [
@@ -23,12 +23,12 @@
     "😠"
   ],
   "ADMINBOT": [
-    "100044713412032",
-    "100004225532317",
-    "100044713412032"
+    "100055650714564",
+    "61584552315368",
+    
   ],
   "DEVELOPER": [
-    "100044713412032"
+    "100055650714564"
   ],
   "APPSTATEPATH": "appstate.json",
   "FCAOption": {
